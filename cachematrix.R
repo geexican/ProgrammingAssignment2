@@ -1,7 +1,7 @@
 ## Two functions, one function creates a matrix 
 ## the other solves the matrix but uses a cached value if available
 
-## this function makes a matrix, x, along with helper functions for finding the inverse
+## this function makes a matrix and helper functions for finding the inverse
 ## of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
